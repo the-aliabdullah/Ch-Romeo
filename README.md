@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ch-Romeo
-- 👀 I’m interested in DATA ANALITICS.
+- 👀 I’m interested in DATA ANALITICS & SOFTWARE DEVELOPMENT.
 - 🌱 I’m currently learning from OSSU.
 - 💞️ I’m looking to collaborate on any Python projects.
 - 📫 You can reach me on discord @AliAbdullah#9838
